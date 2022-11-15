@@ -416,14 +416,6 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":79},
 	"sourceSize": {"w":136,"h":79}
 },
-"CachedBmp_69":
-{
-	"frame": {"x":1368,"y":0,"w":210,"h":530},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":530},
-	"sourceSize": {"w":210,"h":530}
-},
 "CachedBmp_7":
 {
 	"frame": {"x":1646,"y":375,"w":210,"h":123},
@@ -431,14 +423,6 @@
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":123},
 	"sourceSize": {"w":210,"h":123}
-},
-"CachedBmp_70":
-{
-	"frame": {"x":1580,"y":0,"w":64,"h":997},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":997},
-	"sourceSize": {"w":64,"h":997}
 },
 "CachedBmp_71":
 {
@@ -463,6 +447,22 @@
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":453,"h":39},
 	"sourceSize": {"w":453,"h":39}
+},
+"CachedBmp_76":
+{
+	"frame": {"x":1368,"y":0,"w":210,"h":530},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":530},
+	"sourceSize": {"w":210,"h":530}
+},
+"CachedBmp_77":
+{
+	"frame": {"x":1580,"y":0,"w":64,"h":997},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":997},
+	"sourceSize": {"w":64,"h":997}
 },
 "CachedBmp_8":
 {
