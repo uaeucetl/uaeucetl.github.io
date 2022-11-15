@@ -1,0 +1,43 @@
+﻿{"frames": {
+
+"CachedBmp_48":
+{
+	"frame": {"x":0,"y":1253,"w":1476,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1476,"h":271},
+	"sourceSize": {"w":1476,"h":271}
+},
+"CachedBmp_49":
+{
+	"frame": {"x":0,"y":1526,"w":1476,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1476,"h":210},
+	"sourceSize": {"w":1476,"h":210}
+},
+"CachedBmp_67":
+{
+	"frame": {"x":0,"y":0,"w":1476,"h":1251},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1476,"h":1251},
+	"sourceSize": {"w":1476,"h":1251}
+},
+"CachedBmp_68":
+{
+	"frame": {"x":0,"y":1738,"w":1148,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1148,"h":193},
+	"sourceSize": {"w":1148,"h":193}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "23.0.0.407",
+	"image": "Index_atlas_3.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
