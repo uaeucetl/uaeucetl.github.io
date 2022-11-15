@@ -1065,27 +1065,9 @@ if (reversed == null) { reversed = false; }
 		   Keep the quotation marks ("").
 		*/
 		
-		this.recording1.addEventListener("click", fl_ClickToGoToWebPage_5);
+		this.recording1.addEventListener("click", fl_ClickToGoToWebPage_11);
 		
-		function fl_ClickToGoToWebPage_5() {
-			window.open("https://uaeu.blackboard.com/webapps/blackboard/content/listContentEditable.jsp?content_id=_3309824_1&course_id=_124809_1&mode=reset", "_blank");
-		}
-		
-		
-		
-		/* Click to Go to Web Page
-		Clicking on the specified symbol instance loads the URL in a new browser window.
-		
-		Instructions:
-		1. Replace http://www.adobe.com with the desired URL address.
-		   Keep the quotation marks ("").
-		*/
-		
-		
-		
-		this.recording3.addEventListener("click", fl_ClickToGoToWebPage_7);
-		
-		function fl_ClickToGoToWebPage_7() {
+		function fl_ClickToGoToWebPage_11() {
 			window.open("https://uaeu.blackboard.com/webapps/blackboard/content/listContentEditable.jsp?content_id=_3309824_1&course_id=_124809_1&mode=reset", "_blank");
 		}
 		
@@ -1097,10 +1079,10 @@ if (reversed == null) { reversed = false; }
 		   Keep the quotation marks ("").
 		*/
 		
-		this.f2021.addEventListener("click", fl_ClickToGoToWebPage_8);
+		this.recording2.addEventListener("click", fl_ClickToGoToWebPage_12);
 		
-		function fl_ClickToGoToWebPage_8() {
-			window.open("https://uaeu.blackboard.com/webapps/blackboard/content/listContentEditable.jsp?content_id=_3147232_1&course_id=_124809_1", "_blank");
+		function fl_ClickToGoToWebPage_12() {
+			window.open("https://uaeu.blackboard.com/webapps/blackboard/content/listContentEditable.jsp?content_id=_3309824_1&course_id=_124809_1&mode=reset", "_blank");
 		}
 		
 		/* Click to Go to Web Page
@@ -1111,9 +1093,51 @@ if (reversed == null) { reversed = false; }
 		   Keep the quotation marks ("").
 		*/
 		
-		this.f2020.addEventListener("click", fl_ClickToGoToWebPage_9);
+		this.recording3.addEventListener("click", fl_ClickToGoToWebPage_13);
 		
-		function fl_ClickToGoToWebPage_9() {
+		function fl_ClickToGoToWebPage_13() {
+			window.open("https://uaeu.blackboard.com/webapps/blackboard/content/listContentEditable.jsp?content_id=_3309824_1&course_id=_124809_1&mode=reset", "_blank");
+		}
+		
+		/* Click to Go to Web Page
+		Clicking on the specified symbol instance loads the URL in a new browser window.
+		
+		Instructions:
+		1. Replace http://www.adobe.com with the desired URL address.
+		   Keep the quotation marks ("").
+		*/
+		
+		this.recording4.addEventListener("click", fl_ClickToGoToWebPage_14);
+		
+		function fl_ClickToGoToWebPage_14() {
+			window.open("https://uaeu.blackboard.com/webapps/blackboard/content/listContentEditable.jsp?content_id=_3309824_1&course_id=_124809_1&mode=reset", "_blank");
+		}
+		
+		/* Click to Go to Web Page
+		Clicking on the specified symbol instance loads the URL in a new browser window.
+		
+		Instructions:
+		1. Replace http://www.adobe.com with the desired URL address.
+		   Keep the quotation marks ("").
+		*/
+		
+		this.recording5.addEventListener("click", fl_ClickToGoToWebPage_15);
+		
+		function fl_ClickToGoToWebPage_15() {
+			window.open("https://uaeu.blackboard.com/webapps/blackboard/content/listContentEditable.jsp?content_id=_3309824_1&course_id=_124809_1&mode=reset", "_blank");
+		}
+		
+		/* Click to Go to Web Page
+		Clicking on the specified symbol instance loads the URL in a new browser window.
+		
+		Instructions:
+		1. Replace http://www.adobe.com with the desired URL address.
+		   Keep the quotation marks ("").
+		*/
+		
+		this.f2020.addEventListener("click", fl_ClickToGoToWebPage_16);
+		
+		function fl_ClickToGoToWebPage_16() {
 			window.open("https://uaeu.blackboard.com/webapps/blackboard/content/listContentEditable.jsp?content_id=_3134034_1&course_id=_124809_1", "_blank");
 		}
 		
@@ -1125,10 +1149,10 @@ if (reversed == null) { reversed = false; }
 		   Keep the quotation marks ("").
 		*/
 		
-		this.recording2.addEventListener("click", fl_ClickToGoToWebPage_10);
+		this.f2021.addEventListener("click", fl_ClickToGoToWebPage_17);
 		
-		function fl_ClickToGoToWebPage_10() {
-			window.open("https://uaeu.blackboard.com/webapps/blackboard/content/listContentEditable.jsp?content_id=_3309824_1&course_id=_124809_1&mode=reset", "_blank");
+		function fl_ClickToGoToWebPage_17() {
+			window.open("https://uaeu.blackboard.com/webapps/blackboard/content/listContentEditable.jsp?content_id=_3147232_1&course_id=_124809_1", "_blank");
 		}
 	}
 
@@ -1377,7 +1401,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/Index_atlas_1.png?1668511436716", id:"Index_atlas_1"}
+		{src:"images/Index_atlas_1.png?1668512316330", id:"Index_atlas_1"}
 	],
 	preloads: []
 };
