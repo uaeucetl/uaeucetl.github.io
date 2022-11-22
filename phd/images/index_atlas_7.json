@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"CachedBmp_20":
+{
+	"frame": {"x":0,"y":1616,"w":1144,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1144,"h":200},
+	"sourceSize": {"w":1144,"h":200}
+},
+"CachedBmp_36":
+{
+	"frame": {"x":0,"y":1818,"w":1959,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1959,"h":112},
+	"sourceSize": {"w":1959,"h":112}
+},
+"CachedBmp_38":
+{
+	"frame": {"x":0,"y":1414,"w":1144,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1144,"h":200},
+	"sourceSize": {"w":1144,"h":200}
+},
+"CachedBmp_39":
+{
+	"frame": {"x":0,"y":1212,"w":1144,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1144,"h":200},
+	"sourceSize": {"w":1144,"h":200}
+},
+"CachedBmp_40":
+{
+	"frame": {"x":0,"y":1010,"w":1144,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1144,"h":200},
+	"sourceSize": {"w":1144,"h":200}
+},
+"CachedBmp_41":
+{
+	"frame": {"x":0,"y":808,"w":1144,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1144,"h":200},
+	"sourceSize": {"w":1144,"h":200}
+},
+"CachedBmp_42":
+{
+	"frame": {"x":0,"y":606,"w":1190,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1190,"h":200},
+	"sourceSize": {"w":1190,"h":200}
+},
+"CachedBmp_43":
+{
+	"frame": {"x":0,"y":404,"w":1190,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1190,"h":200},
+	"sourceSize": {"w":1190,"h":200}
+},
+"CachedBmp_44":
+{
+	"frame": {"x":0,"y":202,"w":1190,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1190,"h":200},
+	"sourceSize": {"w":1190,"h":200}
+},
+"CachedBmp_45":
+{
+	"frame": {"x":0,"y":0,"w":1190,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1190,"h":200},
+	"sourceSize": {"w":1190,"h":200}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "23.0.0.407",
+	"image": "index_atlas_7.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
