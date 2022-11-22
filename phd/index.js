@@ -764,6 +764,97 @@ if (reversed == null) { reversed = false; }
 	props.reversed = reversed;
 	cjs.MovieClip.apply(this,[props]);
 
+	this.actionFrames = [0];
+	// timeline functions:
+	this.frame_0 = function() {
+		/* Click to Go to Web Page
+		Clicking on the specified symbol instance loads the URL in a new browser window.
+		
+		Instructions:
+		1. Replace http://www.adobe.com with the desired URL address.
+		   Keep the quotation marks ("").
+		*/
+		
+		this.cetlweb.addEventListener("click", fl_ClickToGoToWebPage);
+		
+		function fl_ClickToGoToWebPage() {
+			window.open("http://www.uaeu.ac.ae/en/cetl", "_blank");
+		}
+		
+		/* Click to Go to Web Page
+		Clicking on the specified symbol instance loads the URL in a new browser window.
+		
+		Instructions:
+		1. Replace http://www.adobe.com with the desired URL address.
+		   Keep the quotation marks ("").
+		*/
+		
+		this.facebook.addEventListener("click", fl_ClickToGoToWebPage_2);
+		
+		function fl_ClickToGoToWebPage_2() {
+			window.open("https://www.facebook.com/cetluaeu/", "_blank");
+		}
+		
+		/* Click to Go to Web Page
+		Clicking on the specified symbol instance loads the URL in a new browser window.
+		
+		Instructions:
+		1. Replace http://www.adobe.com with the desired URL address.
+		   Keep the quotation marks ("").
+		*/
+		
+		this.twitter.addEventListener("click", fl_ClickToGoToWebPage_3);
+		
+		function fl_ClickToGoToWebPage_3() {
+			window.open("https://twitter.com/UAEU_CETL", "_blank");
+		}
+		
+		/* Click to Go to Web Page
+		Clicking on the specified symbol instance loads the URL in a new browser window.
+		
+		Instructions:
+		1. Replace http://www.adobe.com with the desired URL address.
+		   Keep the quotation marks ("").
+		*/
+		
+		this.linkedin.addEventListener("click", fl_ClickToGoToWebPage_4);
+		
+		function fl_ClickToGoToWebPage_4() {
+			window.open("https://www.linkedin.com/in/cetl-uaeu-a4b800179/", "_blank");
+		}
+		
+		/* Click to Go to Web Page
+		Clicking on the specified symbol instance loads the URL in a new browser window.
+		
+		Instructions:
+		1. Replace http://www.adobe.com with the desired URL address.
+		   Keep the quotation marks ("").
+		*/
+		
+		this.youtube.addEventListener("click", fl_ClickToGoToWebPage_5);
+		
+		function fl_ClickToGoToWebPage_5() {
+			window.open("https://www.youtube.com/channel/UCBZyR7TJXevorQ6QNoRpB9w?view_as=subscriber", "_blank");
+		}
+		
+		/* Click to Go to Web Page
+		Clicking on the specified symbol instance loads the URL in a new browser window.
+		
+		Instructions:
+		1. Replace http://www.adobe.com with the desired URL address.
+		   Keep the quotation marks ("").
+		*/
+		
+		this.cetlweb2.addEventListener("click", fl_ClickToGoToWebPage_6);
+		
+		function fl_ClickToGoToWebPage_6() {
+			window.open("http://www.uaeu.ac.ae/en/cetl", "_blank");
+		}
+	}
+
+	// actions tween:
+	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(120));
+
 	// Mask (mask)
 	var mask = new cjs.Shape();
 	mask._off = true;
@@ -948,11 +1039,11 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/index_atlas_1.png?1669090546601", id:"index_atlas_1"},
-		{src:"images/index_atlas_2.png?1669090546602", id:"index_atlas_2"},
-		{src:"images/index_atlas_3.png?1669090546602", id:"index_atlas_3"},
-		{src:"images/index_atlas_4.png?1669090546602", id:"index_atlas_4"},
-		{src:"images/index_atlas_5.png?1669090546602", id:"index_atlas_5"}
+		{src:"images/index_atlas_1.png?1669091223985", id:"index_atlas_1"},
+		{src:"images/index_atlas_2.png?1669091223985", id:"index_atlas_2"},
+		{src:"images/index_atlas_3.png?1669091223985", id:"index_atlas_3"},
+		{src:"images/index_atlas_4.png?1669091223986", id:"index_atlas_4"},
+		{src:"images/index_atlas_5.png?1669091223986", id:"index_atlas_5"}
 	],
 	preloads: []
 };
