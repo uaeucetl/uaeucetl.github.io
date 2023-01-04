@@ -1,12 +1,12 @@
 ﻿{"frames": {
 
-"CachedBmp_22":
+"CachedBmp_8":
 {
-	"frame": {"x":0,"y":0,"w":1959,"h":1620},
+	"frame": {"x":0,"y":0,"w":1958,"h":1840},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":1959,"h":1620},
-	"sourceSize": {"w":1959,"h":1620}
+	"spriteSourceSize": {"x":0,"y":0,"w":1958,"h":1840},
+	"sourceSize": {"w":1958,"h":1840}
 }},
 "meta": {
 	"app": "Adobe Animate",
