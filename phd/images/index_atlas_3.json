@@ -1,0 +1,19 @@
+﻿{"frames": {
+
+"CachedBmp_22":
+{
+	"frame": {"x":0,"y":0,"w":1959,"h":1620},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1959,"h":1620},
+	"sourceSize": {"w":1959,"h":1620}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "23.0.0.407",
+	"image": "index_atlas_3.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
