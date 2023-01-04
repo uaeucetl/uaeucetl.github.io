@@ -3,8 +3,8 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"index_atlas_1", frames: [[0,0,1958,1840]]},
-		{name:"index_atlas_2", frames: [[1114,650,40,48],[1156,650,40,48],[1198,607,40,48],[1198,657,40,48],[698,849,963,133],[698,984,963,133],[698,1119,963,133],[0,1643,963,133],[965,1643,962,133],[0,0,1409,562],[698,692,381,25],[698,1254,381,25],[1081,1254,381,25],[1464,1254,381,25],[698,650,414,40],[698,725,1263,122],[0,1529,1959,112],[0,1289,1959,238],[698,607,462,41],[0,1778,1523,48],[0,1828,762,41],[698,564,521,41],[0,564,696,723],[1411,0,314,723],[1727,0,99,723],[1961,849,24,723]]}
+		{name:"index_atlas_1", frames: [[0,0,1958,1973]]},
+		{name:"index_atlas_2", frames: [[1114,650,40,48],[1156,650,40,48],[1198,607,40,48],[1198,657,40,48],[698,870,963,133],[698,1005,963,133],[698,1140,963,133],[0,1643,963,133],[965,1643,962,133],[0,0,1409,562],[698,692,381,25],[1525,1778,381,25],[1525,1805,381,25],[764,1828,381,25],[698,650,414,40],[698,725,1263,143],[0,1529,1959,112],[0,1289,1959,238],[698,607,462,41],[0,1778,1523,48],[0,1828,762,41],[698,564,521,41],[0,564,696,723],[1411,0,314,723],[1727,0,99,723],[1961,870,24,723]]}
 ];
 
 
@@ -134,22 +134,22 @@ lib.ssMetadata = [
 
 
 (lib.CachedBmp_12 = function() {
-	this.initialize(ss["index_atlas_1"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_11 = function() {
 	this.initialize(ss["index_atlas_2"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_10 = function() {
+(lib.CachedBmp_11 = function() {
 	this.initialize(ss["index_atlas_2"]);
 	this.gotoAndStop(16);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_10 = function() {
+	this.initialize(ss["index_atlas_1"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -833,16 +833,13 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11}]}).wait(1));
 
 	// Layer_1
-	this.instance_21 = new lib.CachedBmp_12();
-	this.instance_21.setTransform(22.6,130.75,0.5,0.5);
-
 	this.cetlweb2 = new lib.Symbol9();
 	this.cetlweb2.name = "cetlweb2";
 	this.cetlweb2.setTransform(512,64,1.2287,1.2287);
 	new cjs.ButtonHelper(this.cetlweb2, 0, 1, 2, false, new lib.Symbol9(), 3);
 
-	this.instance_22 = new lib.CachedBmp_11();
-	this.instance_22.setTransform(196.15,134,0.5,0.5);
+	this.instance_21 = new lib.CachedBmp_12();
+	this.instance_21.setTransform(196.15,129.5,0.5,0.5);
 
 	this.cetlweb = new lib.cetlweb();
 	this.cetlweb.name = "cetlweb";
@@ -869,10 +866,13 @@ if (reversed == null) { reversed = false; }
 	this.facebook.setTransform(867.05,1031.05,1,1,0,0,0,5.5,10.6);
 	new cjs.ButtonHelper(this.facebook, 0, 1, 2, false, new lib.facebook(), 3);
 
-	this.instance_23 = new lib.CachedBmp_10();
-	this.instance_23.setTransform(22.35,996.95,0.5,0.5);
+	this.instance_22 = new lib.CachedBmp_11();
+	this.instance_22.setTransform(22.35,996.95,0.5,0.5);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_23},{t:this.facebook},{t:this.twitter},{t:this.linkedin},{t:this.youtube},{t:this.cetlweb},{t:this.instance_22},{t:this.cetlweb2},{t:this.instance_21}]}).wait(1));
+	this.instance_23 = new lib.CachedBmp_10();
+	this.instance_23.setTransform(22.6,64.1,0.5,0.5);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_23},{t:this.instance_22},{t:this.facebook},{t:this.twitter},{t:this.linkedin},{t:this.youtube},{t:this.cetlweb},{t:this.instance_21},{t:this.cetlweb2}]}).wait(1));
 
 	this._renderFirstFrame();
 
@@ -887,8 +887,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/index_atlas_1.png?1672828345140", id:"index_atlas_1"},
-		{src:"images/index_atlas_2.png?1672828345140", id:"index_atlas_2"}
+		{src:"images/index_atlas_1.png?1672828727937", id:"index_atlas_1"},
+		{src:"images/index_atlas_2.png?1672828727937", id:"index_atlas_2"}
 	],
 	preloads: []
 };
