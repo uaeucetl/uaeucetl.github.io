@@ -1,6 +1,6 @@
 ﻿{"frames": {
 
-"CachedBmp_1034":
+"CachedBmp_1637":
 {
 	"frame": {"x":0,"y":0,"w":764,"h":1319},
 	"rotated": false,
@@ -8,7 +8,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":764,"h":1319},
 	"sourceSize": {"w":764,"h":1319}
 },
-"CachedBmp_1060":
+"CachedBmp_1663":
 {
 	"frame": {"x":0,"y":1321,"w":1409,"h":562},
 	"rotated": false,
@@ -19,7 +19,7 @@
 "meta": {
 	"app": "Adobe Animate",
 	"version": "23.0.2.103",
-	"image": "index_atlas_8.png",
+	"image": "index_atlas_24.png",
 	"format": "undefined",
 	"size": {"w":2048,"h":2048},
 	"scale": "1"
